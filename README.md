@@ -126,6 +126,6 @@ DATABASE_URL=mongodb://127.0.0.1:27017/Blogging_App
 
 * 🎓 LNMIIT
 * 💻 Backend Developer (Node.js, Express, MongoDB)
-* 🔗 GitHub: https://github.com/your-username
+* 🔗 GitHub: https://github.com/devangs581-gif
 
 ---
