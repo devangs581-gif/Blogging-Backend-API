@@ -125,7 +125,7 @@ DATABASE_URL=mongodb://127.0.0.1:27017/Blogging_App
 **Devang Singh Mehta**
 
 * 🎓 LNMIIT
-* 💻 Backend Developer (Node.js, Express, MongoDB)
+* 💻 Full Stack Developer 
 * 🔗 GitHub: https://github.com/devangs581-gif
 
 ---
